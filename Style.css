@@ -1,0 +1,72 @@
+
+.body{
+    background-color: #ffffff;;
+}
+.title{
+    text-align: center;            /* Centra el texto */
+    width: 50%;                    /* Define el ancho de la caja */
+    margin: 20px auto;             /* Centra la caja horizontalmente */
+    padding: 20px;                 /* Espacio interno en la caja */
+    background-color:#62a8f3;     /* Color de fondo */
+    border: 2px solid #39608e;        /* Borde de la caja */
+    border-radius: 10px;           /* Bordes redondeados */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ff{
+    text-align: center;            /* Centra el texto */
+    width: 50%;                    /* Define el ancho de la caja */
+    margin: 20px auto;
+    background-color:#ffffff;;
+    border: #62a8f3 ;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fieldset1{
+    
+    background-color:#62a8f3;
+    text-align: center;            /* Centra el texto */
+    width: 50%;                    /* Define el ancho de la caja */
+    margin: 20px auto;             /* Centra la caja horizontalmente */
+    padding: 25px;                 /* Espacio interno en la caja */
+    border-radius: 10px;
+    border: 4px solid #39608e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.mm{
+    display: block; /* Convierte la imagen en un elemento de bloque */
+    margin: 0 auto; /* Centra horizontalmente */
+    height: 200px;
+    width: 200px; /* Ajusta el tamaño de la imagen */
+    border: 2px solid #39608e; /* Opcional: añade un borde */
+    border-radius: 50%; /* Bordes redondeados */
+    margin-bottom: 20px;
+}
+.fieldset2{
+    
+    background-color:#62a8f3;
+    text-align: center;            /* Centra el texto */
+    width: 50%;                    /* Define el ancho de la caja */
+    margin: 20px auto;             /* Centra la caja horizontalmente */
+    padding: 25px;                 /* Espacio interno en la caja */
+    border-radius: 10px;
+    border: 4px solid #39608e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact-link {
+    color: #ffffff; /* Color del texto */
+    background-color: #00796b; /* Color de fondo */
+    padding: 10px 20px; /* Espaciado interno */
+    text-decoration: none; /* Quita el subrayado */
+    border-radius: 5px; /* Bordes redondeados */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    font-size: 16px; /* Tamaño del texto */
+    transition: background-color 0.3s ease; /* Efecto al pasar el mouse */
+}
+.ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
